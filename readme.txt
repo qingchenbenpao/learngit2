@@ -1,6 +1,7 @@
 git is edited on dev.
 Git is a distributed version control system.
-Git is a free software distributed under the GPL.
+Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
+git is developed on branch on dev.
 
